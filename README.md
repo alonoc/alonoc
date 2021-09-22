@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @alonoc
-- 👀 I’m interested in C, C++, python, Rust, Machine Learning, 
+- 👀 I’m interested in C, C++, python, Rust, Machine Learning, Computer Vision, Image processing. 
 - 🌱 I’m currently learning about Rust
 - 💞️ I’m looking to collaborate on any interesting project just reach me out if you think my skills fit into your project.
 - 📫 How to reach me (aloaizapereira@gmail.com) or by twitter @alonoc
